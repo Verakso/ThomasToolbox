@@ -21,7 +21,7 @@ Der er inkluderet en requirements.txt fil der indeholder de samlede dependencies
 ```
 pip install -r requirements.txt
 ```
-Husk blot lige at gkøre dette når du står i dit aktive og relevante miljø!  
+Husk blot lige at køre dette når du står i dit aktive og relevante miljø!  
 Ellers risikerer du, at installere disse afhægigheder et helt andet sted...
 
 ### Notebooks:
