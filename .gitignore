@@ -1,0 +1,18 @@
+# Exclude .env file
+.env
+
+# Exclude all .csv files
+*.csv
+
+# Exclude all .xlsx files
+*.xlsx
+
+
+# Exclude all .xlsx files
+*.json
+
+# Ignore all markdown files
+*.md
+
+# But not this one
+!readme.md

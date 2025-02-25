@@ -1,0 +1,12 @@
+ipykernel
+httpx
+pandas
+python-dotenv
+openpyxl
+wordcloud
+matplotlib
+ipython
+tabulate
+azure-identity
+azure-synapse-artifacts
+azure-mgmt-synapse
